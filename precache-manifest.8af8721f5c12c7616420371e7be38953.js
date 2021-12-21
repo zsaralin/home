@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "792da8815910ce79fc32e00e5d606599",
+    "revision": "db272ffbd07197551a60f41a48fd3a78",
     "url": "/index.html"
   },
   {
-    "revision": "dc07fc98492598626d44",
+    "revision": "a9b2b61e0d6ef285958b",
     "url": "/static/css/main.d65aef8a.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.b6b65178.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "dc07fc98492598626d44",
-    "url": "/static/js/main.61386733.chunk.js"
+    "revision": "a9b2b61e0d6ef285958b",
+    "url": "/static/js/main.224762ea.chunk.js"
   },
   {
     "revision": "f52ba179432c3be28857",
@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/CV.314e147c.pdf"
   },
   {
-    "revision": "ecca9ec116a0d560ca10bfdfc24470c4",
-    "url": "/static/media/Resume_ATC2.ecca9ec1.pdf"
+    "revision": "904490c2a1ec21d0243f2baaa9a94ace",
+    "url": "/static/media/Resume.904490c2.pdf"
   },
   {
     "revision": "720eee3fd52a2aa62829983d21dc439d",
@@ -84,8 +84,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/purdy.c7c38155.jpg"
   },
   {
-    "revision": "9d3da0e22086c40d5e3106d01c0f6402",
-    "url": "/static/media/resume.9d3da0e2.pdf"
+    "revision": "904490c2a1ec21d0243f2baaa9a94ace",
+    "url": "/static/media/resume.904490c2.pdf"
   },
   {
     "revision": "99ea3086ae2fe4358280baee02316027",
