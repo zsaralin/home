@@ -50,7 +50,7 @@ const mainBody = {
 
 const about = {
   show: true,
-  heading: "Hi! I'm Saralin╰( ^o^)╮",
+  heading: "Hi! I'm Saralin ╰( ^o^)╮",
   imageLink: require("../editable-stuff/purdy.jpg"),
   imageSize: 250,
   message: "I'm a master’s student at the University of Waterloo. I am supervised by " +
@@ -127,7 +127,7 @@ const skills = {
 // GET IN TOUCH SECTION
 const getInTouch = {
   show: true,
-  heading: "Thanks for making it to the end! ˚✧₊⁎( ˘ω˘ )⁎⁺˳✧༚",
+  heading: "˚✧₊⁎ Thanks for making it to the end! ⁎⁺˳✧༚",
   message: "Shoot me an email me if you have any questions",
   email: "zsaralin@gmail.com",
 };

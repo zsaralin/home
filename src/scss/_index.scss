@@ -150,27 +150,27 @@ code {
 
 /* image grid styles */
 .img-grid{
-  margin: 20px auto;
   display: flex;
-  //grid-template-columns: 1fr 1fr 1fr 1fr;
-  //grid-gap: 20px;
+  flex-wrap: wrap;
+  padding: 0 4px;  justify-content: center;
+
 }
 .img-wrap{
-  overflow: hidden;
-  height: 0;
-  flex: 50%;
-  //padding: 50% 0;
-  /* padding controls height, will always be perfectly square regardless of width */
-  position: relative;
-  //opacity: 0.8;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+  positive: relative;
 }
 .img-wrap img{
   //min-width: 100%;
   //min-height: 100%;
   //max-width: 150%;
-  position: absolute;
-  top: 0;
-  left: 0;
+  //position: absolute;
+  //width: 250px;
+  //top: 0;
+  //left: 0;
+  margin-top: 8px;
+  vertical-align: middle;
 }
 
 .img-wrap img:hover{

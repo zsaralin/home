@@ -9,19 +9,6 @@ import {
     Jumbotron
 } from "react-bootstrap";
 
-const photos = [{
-    photo: './Photos/eagle.jpg',
-    text:"Penguin + Eagle"
-},
-    {
-        photo: './Photos/stuffedanimal.jpg',
-        text:"Porcupine"
-    },
-    {
-        photo: './Photos/koala.jpg',
-        text:"koala"
-    }
-]
 
 
 const Experience = () => {
@@ -32,7 +19,7 @@ const Experience = () => {
             <Container>
                 <Jumbotron fluid className="bg-white">
                     <h2 className="display-4 mb-5 text-center">
-                        ArtPOOP
+                        Art
                     </h2>
                     <Image setSelectedImg={setSelectedImg} />
                     { selectedImg && (
