@@ -1,39 +1,51 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2a7db310a229409c247f1b3950c763a9",
+    "revision": "66c71899ed7db1649698991049814b62",
     "url": "/index.html"
   },
   {
-    "revision": "c7acc7b15257d53b6114",
-    "url": "/static/css/main.d65aef8a.chunk.css"
+    "revision": "989b4d745379cf3e0459",
+    "url": "/static/css/main.26b77f29.chunk.css"
   },
   {
-    "revision": "3eadd0f3a538e3b111c3",
-    "url": "/static/js/2.b6b65178.chunk.js"
+    "revision": "df3af48563b9ae478532",
+    "url": "/static/js/2.4de2c962.chunk.js"
   },
   {
-    "revision": "857d129e4a5f4f33c7a4a143bf79109c",
-    "url": "/static/js/2.b6b65178.chunk.js.LICENSE.txt"
+    "revision": "c87e50d81cc7b5311525cc6fd5482ea5",
+    "url": "/static/js/2.4de2c962.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c7acc7b15257d53b6114",
-    "url": "/static/js/main.b0af863b.chunk.js"
+    "revision": "989b4d745379cf3e0459",
+    "url": "/static/js/main.020f56bc.chunk.js"
   },
   {
     "revision": "f52ba179432c3be28857",
     "url": "/static/js/runtime-main.554504a0.js"
   },
   {
-    "revision": "437c2e75aaf055bc85e2245c91403702",
-    "url": "/static/media/CV.437c2e75.pdf"
+    "revision": "c35b76db1a263327236501d2ef222118",
+    "url": "/static/media/886_Chatbot_Paper8_pages.c35b76db.pdf"
   },
   {
-    "revision": "43c2d4fdd32cca0f4e39fa1e3367f1da",
-    "url": "/static/media/Resume.43c2d4fd.pdf"
+    "revision": "3ab8626ee765ffa55058e2ec93245876",
+    "url": "/static/media/CS889_PaperFinal.3ab8626e.pdf"
   },
   {
-    "revision": "720eee3fd52a2aa62829983d21dc439d",
-    "url": "/static/media/SaralinZassman_Resume.720eee3f.pdf"
+    "revision": "32b581a7732b8847098595c6f24260eb",
+    "url": "/static/media/CS_854_Group_Project_Paper__Copy_.32b581a7.pdf"
+  },
+  {
+    "revision": "314e147c8910293ad3406208011cd4cc",
+    "url": "/static/media/CV.314e147c.pdf"
+  },
+  {
+    "revision": "ecca9ec116a0d560ca10bfdfc24470c4",
+    "url": "/static/media/Resume_ATC2.ecca9ec1.pdf"
+  },
+  {
+    "revision": "f4712f34075e846afadc434da6cff62d",
+    "url": "/static/media/Written-Report-Zassman-665.f4712f34.pdf"
   },
   {
     "revision": "9b53dfeb1b33717c3ef86e3f964333db",
@@ -64,10 +76,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/haiku.52710c33.gif"
   },
   {
-    "revision": "32f6b574eb11519020e24620a38bdf55",
-    "url": "/static/media/hashirshoaeb.32f6b574.png"
-  },
-  {
     "revision": "10a820dd299cdd25c7e4d2d67c346f54",
     "url": "/static/media/koala.10a820dd.jpg"
   },
@@ -84,8 +92,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/purdy.c7c38155.jpg"
   },
   {
-    "revision": "43c2d4fdd32cca0f4e39fa1e3367f1da",
-    "url": "/static/media/resume.43c2d4fd.pdf"
+    "revision": "9d3da0e22086c40d5e3106d01c0f6402",
+    "url": "/static/media/resume.9d3da0e2.pdf"
   },
   {
     "revision": "99ea3086ae2fe4358280baee02316027",
