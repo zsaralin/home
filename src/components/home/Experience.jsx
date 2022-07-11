@@ -5,7 +5,7 @@ import Modal from "./Modal";
 
 import {
     Container,
-    Row,
+    // Row,
     Jumbotron
 } from "react-bootstrap";
 

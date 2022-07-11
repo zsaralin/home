@@ -1,3 +1,5 @@
+/**/
+
 import React from "react";
 import { BrowserRouter, Route } from "react-router-dom";
 import {
@@ -51,19 +53,16 @@ const Home = React.forwardRef((props, ref) => {
                     specfic={repos.specificRepos}
                 />
             )}
+            {leadership.show && (
+                <Leadership
+                    heading={leadership.heading}
+                />
+            )}
             {
                 experiences.show && (
                     <Experience experiences={experiences}/>
                 )
             }
-            {leadership.show && (
-                <Leadership
-                    heading={leadership.heading}
-                    message={leadership.message}
-                    img={leadership.images}
-                    imageSize={leadership.imageSize}
-                />
-            )}
             {skills.show && (
                 <Skills
                     heading={skills.heading}

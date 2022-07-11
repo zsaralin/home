@@ -59,6 +59,15 @@ const MainBody = React.forwardRef(
                     </a>
                     <a
                         className="btn btn-outline-light btn-lg "
+                        href="#leadership"
+                        role="button"
+                        aria-label="Leadership"
+                        style = {{margin: '5px'}}
+                    >
+                        Projects
+                    </a>
+                    <a
+                        className="btn btn-outline-light btn-lg "
                         href="#art"
                         role="button"
                         aria-label="Art"
