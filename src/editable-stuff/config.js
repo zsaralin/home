@@ -50,14 +50,14 @@ const mainBody = {
 
 const about = {
   show: true,
-  heading: "Hi! I'm Saralin ╰( ^o^)╮",
+  heading: "Hi! I'm Saralin╰(°ᴥ°)",
   imageLink: require("../editable-stuff/purdy.jpg"),
   imageSize: 250,
   message: "I'm a master’s student at the University of Waterloo. I am supervised by " +
       "Dr. Daniel Vogel in the human-computer interaction lab, and Dr. " +
       "Craig Kaplan in the computer graphics lab." +
-      " I am super interested in computer science and visual art! ",
-  resume: require("../editable-stuff/Resume_ATC2.pdf"),
+      " I'm passionate about human-computer interaction, all things computer science, and visual art! ",
+  resume: require("../editable-stuff/Resume.pdf"),
   cv: require("../editable-stuff/CV.pdf"),
 };
 
