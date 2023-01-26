@@ -51,7 +51,7 @@ const mainBody = {
 const about = {
   show: true,
   heading: "Hi! I'm Saralin╰(°ᴥ°)",
-  imageLink: require("../editable-stuff/purdy.jpg"),
+  imageLink: require("../editable-stuff/saralin-zassman.png"),
   imageSize: 250,
   message: "I'm a master’s student at the University of Waterloo. I am supervised by " +
       "Dr. Daniel Vogel in the human-computer interaction lab, and Dr. " +
