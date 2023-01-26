@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ee2c8692fd94f11e88237af6214aadaf",
+    "revision": "8ffb915b886193b5d30fe10db8a1beba",
     "url": "/index.html"
   },
   {
-    "revision": "ec613e6043e721cc0e06",
+    "revision": "5d7a833ba8e584211bc9",
     "url": "/static/css/main.26b77f29.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.4de2c962.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ec613e6043e721cc0e06",
-    "url": "/static/js/main.17a74c84.chunk.js"
+    "revision": "5d7a833ba8e584211bc9",
+    "url": "/static/js/main.161a6696.chunk.js"
   },
   {
     "revision": "f52ba179432c3be28857",
@@ -94,6 +94,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "9d3da0e22086c40d5e3106d01c0f6402",
     "url": "/static/media/resume.9d3da0e2.pdf"
+  },
+  {
+    "revision": "0ad45cb711d820d389cc1d9ee1e61df1",
+    "url": "/static/media/saralin-zassman.0ad45cb7.png"
   },
   {
     "revision": "99ea3086ae2fe4358280baee02316027",
