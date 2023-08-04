@@ -71,7 +71,7 @@ const repos = {
   heading: "Portfolio",
   gitHubUsername: "zsaralin", //i.e."johnDoe12Gh"
   reposLength: 0,
-  specificRepos: ['chatbot', 'haiku-generator','DOM-tree-data'],
+  specificRepos: ['infinite-scroll', 'meetingSMLR', 'chatbot', 'haiku-generator', 'DOM-tree-data',],
 };
 
 // Leadership SECTION

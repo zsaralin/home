@@ -15,8 +15,8 @@ const ProjectCard = ({ value }) => {
   } = value;
   return (
     <Col md={6}>
-      <Card className="card shadow-lg p-3 mb-5 bg-white rounded">
-        <Card.Body>
+      <Card className="card shadow-lg p-3 mb-5 bg-white rounded" style = {{height: name === "infinite-scroll" ? '800px' : 'auto'}} >
+        <Card.Body  >
           <Card.Title as="h5">{name || <Skeleton />} </Card.Title>
           <Card.Text>{(!description)?"":description || <Skeleton count={3} />} </Card.Text>
           {svn_url ? <CardButtons svn_url={svn_url} /> : <Skeleton count={2} />}
@@ -32,9 +32,11 @@ const ProjectCard = ({ value }) => {
             <Skeleton />
           )}
         </Card.Body>
-        <img hidden = {name == 'meetingSMLR' ? false: name == 'chatbot' ? false: name == 'haiku-generator' ? false:true}  style = {{marginLeft: 'auto',
-          marginRight: 'auto', width: name == 'haiku-generator' || 'meetingSMLR' ? '90%':'100%',
+        <img hidden = {name == 'infinite-scroll' ? false: name == 'meetingSMLR' ? false: name == 'chatbot' ? false: name == 'haiku-generator' ? false:true}  style = {{marginLeft: 'auto',
+          marginRight: 'auto', width: name == 'haiku-generator' || name === 'meetingSMLR' ? '90%': '100%',
+          transform: (name === 'infinite-scroll') ? 'scale(0.5)' : 'scale(1)', transformOrigin: 'center', marginTop : name == "infinite-scroll" ? '-80px': 'auto',
           display: 'block'}} src={
+          name == 'infinite-scroll' ? require('./Photos/infinite-scroll.gif') :
             name == 'meetingSMLR' ? require('./Photos/meeting.gif'): name == 'chatbot' ?
                 require('./Photos/bot_gif.gif') : require('./Photos/haiku.gif')} alt="loading..." />
       </Card>
