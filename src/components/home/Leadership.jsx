@@ -20,10 +20,6 @@ const leadArr = [
         description: 'Course Project for Affective Computing (CS 886 - Advanced Topics in Artificial Intelligence)',
         svn_url: chatbot},
     {
-        name: 'Why people are not mindful: An explorative interview study',
-        description: 'Course Project for Publishing HCI Research (CS 889 - Advanced Topics in Human-Computer Interaction)',
-        svn_url: mindful},
-    {
         name: 'The Hyperbolic Structure of Corals',
         description: 'Course Project for Synergy between Computer Science and Biology (CS 898 - Advanced Special Topics in Computer Science)',
         svn_url: coral},
